@@ -1,0 +1,1 @@
+This module will allow Drupal Administrators to keep an eye on their Drupal Website by subscribing to the RSS Feed of Watchdogs.
